@@ -32,3 +32,4 @@ Node* RemoveDuplicates(Node *head)
     
   }
   return head;                                                //And we have killed him. :")
+}
